@@ -1,0 +1,25 @@
+//Inscrição
+
+// 1. Proposta das variáveis
+
+let nome; 
+let cpf;
+let rg;
+let altura;
+let endereco;
+
+// 2. Elaboração da declaração das variáveis
+
+nome = ("José Almeida da Silva")
+cpf = 12345678900
+rg = 9517530
+altura = 1.78
+endereco = ("Rua A, 380 – Centro – Recife/PE")
+
+// 3. Exemplo de impressão dos dados na console
+
+console.log("Nome: " + nome);
+console.log("CPF: " + cpf);
+console.log("RG: " + rg);
+console.log("Altura: " + altura);
+console.log("Endereço: " + endereco);
